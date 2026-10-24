@@ -1,0 +1,12 @@
+{
+  "name": "vuln-demo-store-admin",
+  "version": "1.0.0",
+  "description": "Admin dashboard bundle for the demo store (scan target fixture)",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "4.7.6",
+    "lodash": "4.17.21",
+    "markdown": "0.7.0"
+  }
+}
